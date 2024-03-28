@@ -46,6 +46,7 @@ IoT 개발자과정 SQLServer 학습 리포지토리
           [GROUP BY 속성이름(들)]
         [HAVING 검색조건(들)]
           [ORDER BY 속성이름(들) [ASC|DESC]]
+        ```
         
     - SELECT 문 학습
         - 기본, 조건검색 학습 중
