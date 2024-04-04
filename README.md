@@ -273,5 +273,20 @@ IoT 개발자과정 SQLServer 학습 리포지토리
 
         ![구성관리자](https://raw.githubusercontent.com/been2525/basic-database-2024/main/images/db005.png)
 
+## 6일차 (24.04.04)
+- 파이썬 SQL Server연동 프로그래밍
+    - Madang DB 관리 프로그램
+        - PyQt5 + pymssql
 
+    - 문제점 - 한글 깨짐문제
+        1. DB 테이블의 varchar(ASCII) -> nvarchar(UTF-8)
+        2. Python에서 pymssql로 접속할 때, Charset을 'UTF-8'로 설정
+        3. INSERT 쿼리에 한글 입력되는 컬럼은 N '' 을 붙어줌(유니코드로 입력하라는 뜻)
+    
+    - 실행하면
+
+## 7일차
+- SQL 고급
+    - 트랜젝션
+    
 - 데이터베이스 모델링
