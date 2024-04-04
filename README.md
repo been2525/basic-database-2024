@@ -285,6 +285,10 @@ IoT 개발자과정 SQLServer 학습 리포지토리
     
     - 실행하면
 
+        https://github.com/been2525/basic-database-2024/assets/130003854/13aba923-e4e9-44b3-a7bb-9a459a781607
+
+
+
 ## 7일차
 - SQL 고급
     - 트랜젝션
