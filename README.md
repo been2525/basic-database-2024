@@ -283,7 +283,7 @@ IoT 개발자과정 SQLServer 학습 리포지토리
         2. Python에서 pymssql로 접속할 때, Charset을 'UTF-8'로 설정
         3. INSERT 쿼리에 한글 입력되는 컬럼은 N '' 을 붙어줌(유니코드로 입력하라는 뜻)
     
-    - 실행하면
+    - 실행화면
 
         https://github.com/been2525/basic-database-2024/assets/130003854/13aba923-e4e9-44b3-a7bb-9a459a781607
 
